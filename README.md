@@ -1,6 +1,6 @@
 # Magento 2 Gift Card by MageTop
 
-**Magento 2 Gift Card Extension** by MageTop helps the store owner can create gift card products and list them on the online store. A customer can purchase the gift card and send it to someone via email. The customer can also attach any personal message in the gift card. The person who receives the gift card can spend either a full amount or a partial amount from the gift card. The gift card code can be applied at the shopping cart.
+**Magento 2 Gift Card Extension** by MageTop helps store owner can create gift card products and list them on the online store. A customer can purchase the gift card and send it to someone via email. The customer can also attach any personal message in the gift card. The person who receives the gift card can spend either a full amount or a partial amount from the gift card. The gift card code can be applied at the shopping cart.
 
 ## Highlight features
 
@@ -18,7 +18,7 @@
 ## More features & Demo
 
 - Extension details : https://www.magetop.com/magento-2-gift-card-extension.html
-- Frontend demo : https://magento2.demo.magetop.com/demo-full
+- Frontend demo : https://magento2.demo.magetop.com/demo-full/special-gift-card.html
 - Backend demo : https://magento2.demo.magetop.com/demo-full/admin
 
 ## Support & Contact info
